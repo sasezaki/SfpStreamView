@@ -4,7 +4,7 @@
  * https://github.com/spindle/spindle-view
  * spindle/view is licensed under CC0-1.0 (Public Domain)
  */
-namespace SfpStreamView;
+namespace Sfp\StreamView;
 
 use ArrayObject;
 use SplStack;

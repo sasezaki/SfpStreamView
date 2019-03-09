@@ -1,11 +1,11 @@
 <?php
 
-namespace SfpStreamViewTest;
+namespace SfpTest\StreamView;
 
-use SfpStreamView\View;
-use Backbeard\RouteMatch;
+use Sfp\StreamView\View;
+use PHPUnit\Framework\TestCase;
 
-class ViewTest extends \PHPUnit_Framework_TestCase
+class ViewTest extends TestCase
 {
     public function testRender()
     {

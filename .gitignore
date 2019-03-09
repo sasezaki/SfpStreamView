@@ -1,12 +1,13 @@
 .buildpath
 .DS_Store
 .idea
+nbproject/
 .project
 .settings/
 .*.sw*
 .*.un~
 build/
+.phpunit.result.cache
 composer.lock
-nbproject
 tmp/
 vendor/
